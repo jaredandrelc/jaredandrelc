@@ -4,6 +4,9 @@
 
 ---
 
+## 🗃️ Gists
+[Fooocus for Intel ARC Installer Batch File](https://gist.github.com/jaredandrelc/9062bd39137a8004100359eeaee209a1)
+
 ## 🚀 About Me
 - 🎓 Currently at University of Santo Tomas Manila, in BSIT under CICS
 - 🌱 I’m learning **Docker**, **Bootstrap**, and improving my overall tech skills.
