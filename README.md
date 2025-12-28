@@ -1,7 +1,7 @@
 # Hi, I'm Jaye 👋
 
 I'm a passionate developer based in **Manila.** 
-
+[**View more about me.**](ABOUTME.md)
 ### Repos
 *None for now*
 
