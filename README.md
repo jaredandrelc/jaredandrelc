@@ -4,6 +4,7 @@ I'm a passionate developer based in **Manila.**
 [**View more about me.**](ABOUTME.md)
 ### Repos
 [Batch File Builder (Batch Builder)](https://github.com/jaredandrelc/batchbuilder) | [Live Page](https://jaredandrelc.github.io/batchbuilder/)<br/>
+[ICO Composer](https://github.com/jaredandrelc/icocomposer) | [Live Page](https://jaredandrelc.github.io/icocomposer/)<br/>
 [Manila Live Rail Feed](https://github.com/jaredandrelc/ManilaLiveRailFeed)<br/>
 [Manila Jeep Route Feed](https://github.com/jaredandrelc/ManilaJeepRoutemap)
 
